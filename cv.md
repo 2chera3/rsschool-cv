@@ -1,3 +1,5 @@
+! [file:///Users/chera/Pictures/My%20avatar%20photos/IMG_1466.jpg] (file:///Users/chera/Pictures/My%20avatar%20photos/IMG_1466.jpg)
+
 # Andrei Charheika
 
 ### Contacts:
@@ -41,17 +43,16 @@ function showDistance (speed, time){
 
 ### Work experience:
 
-##### Project: Manifest®. 
+##### Project: Manifest®
 ###### Manifest® digital work instruction software is enhanced with augmented reality, 3D models, audio, video, and PDF manuals making them an invaluable frontline worker aid for completing complex processes accurately and consistently.
-######
 ###### Following tasks were performed: 
-* ###### Performed requirements analysis and testing.
-* ###### Did functional and technical specifications testing.
-* ###### Created and executed test cases.
-* ###### Performed results gathering and analysis.
-* ###### Did bug and test results reporting.
-* ###### Performed project documentations keeping.
-* ###### Updated test plan.
+* ###### Performed requirements analysis and testing
+* ###### Did functional and technical specifications testing
+* ###### Created and executed test cases
+* ###### Performed results gathering and analysis
+* ###### Did bug and test results reporting
+* ###### Performed project documentations keeping
+* ###### Updated test plan
 * ###### Performed tasks planning (estimation)
 * ###### Reported sizing time for each releases
 * ###### Trained and supervised junior team members
