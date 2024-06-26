@@ -72,4 +72,4 @@ function showDistance (speed, time){
 
 ### Project: 
 
-###### [https://2chera3.github.com/rsschool-cv/cv](https://github.com/2chera3/rsschool-cv/blob/gh-pages/cv.md)
+[https://2chera3.github.com/rsschool-cv/cv](https://github.com/2chera3/rsschool-cv/blob/gh-pages/cv.md)
