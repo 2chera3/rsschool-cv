@@ -1,4 +1,4 @@
-! [file:///Users/chera/Pictures/My%20avatar%20photos/IMG_1466.jpg] (file:///Users/chera/Pictures/My%20avatar%20photos/IMG_1466.jpg)
+![Image alt](https://github.com/2chera3/rsschool-cv/raw/gh-pages/andrei-cv.jpg)
 
 # Andrei Charheika
 
