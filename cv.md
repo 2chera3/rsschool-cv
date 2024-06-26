@@ -74,3 +74,5 @@ function showDistance (speed, time){
 ### Project: 
 
 [https://2chera3.github.com/rsschool-cv/cv](https://github.com/2chera3/rsschool-cv/blob/gh-pages/cv.md)
+
+![Image alt](https://github.com/2chera3/rsschool-cv/raw/gh-pages/imgonline-com-ua-Resize-rQcqQzM01S.jpg)
