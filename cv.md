@@ -4,7 +4,7 @@
 
 ### Contacts:
 
-* ###### Location: Grodno, Belarus
+* ###### Location: Minsk, Belarus
 * ###### GitHub: https://github.com/2chera3
 * ###### Discord: https://discordapp.com/users/2chera3/
 * ###### e-mail: 2chera3@gmail.com
@@ -12,7 +12,7 @@
 ### Summary:
 
 ###### Hi 👋
-###### I am a beginner JavaScript developer from Grodno.
+###### I am a beginner JavaScript developer from Minsk.
 ###### I have more than 2 years of experience testing software as a QA Engineer on various platforms (web, mobile devices, tablets, 3D AR) and APIs.
 ###### I decided to change my specialty and study JavaScript on my own, becoming a future developer.
 ###### I love to travel, be active with my family and play with our dog Elvis.
