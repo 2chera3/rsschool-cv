@@ -4,7 +4,7 @@
 
 ### Contacts:
 
-* ###### Location: Grodno, Belarus
+* ###### Location: Minsk, Belarus
 * ###### GitHub: https://github.com/2chera3
 * ###### Discord: https://discordapp.com/users/2chera3/
 * ###### e-mail: 2chera3@gmail.com
