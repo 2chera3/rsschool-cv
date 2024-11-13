@@ -1,4 +1,4 @@
-
+![Image alt](https://github.com/2chera3/rsschool-cv/raw/gh-pages/andrei-cv.jpg)
 
 # Andrei Charheika
 
