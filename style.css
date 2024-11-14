@@ -1,0 +1,48 @@
+header {
+    background-color: #8acfea;
+    color: white;
+    display: block;
+    height: 60;
+    left: 10;
+    position: right;
+    width: 100%;
+    text-align: center
+  }
+
+  body {
+    background-color: #515459;
+    color: white;
+    display: block;
+    height: 60;
+    left: 0;
+    position: absolute;
+    width: 100%;
+  }
+
+  footer {
+    background-color: #090303;
+    color: white;
+    display: block;
+    height:60;
+    left: 0;
+    position: absolute;
+    width: 100%;
+    text-align: left 2024
+  }
+
+  h1 {
+    color: rgb(40, 65, 142);
+  }
+
+  img {
+    margin: auto;
+    display: block;
+  }
+
+  h2 {
+    text-align: center
+  }
+
+  .Contacts {
+    background: rgba(255, 234, 0, 0.67);
+  }
