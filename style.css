@@ -1,0 +1,48 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-image: url(/rsschool-cv/images/krasivaa-fotografia-morskih-voln.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
+
+header nav ul {
+    display: flex;          /* Горизонтальное меню */
+    list-style: none;       /* Убираем маркеры списка */
+    gap: 1.5rem;            /* Расстояние между пунктами */
+    margin: 0;              /* Убираем внешние отступы */
+    padding: 0;             /* Убираем внутренние отступы */
+}
+
+.andrei {
+    font-family: Arial, sans-serif;
+    color: #333;
+    font-size: 18px;
+}
+
+.avatar {
+  width: 220px;         /* Размер круга */
+  height: 220px;
+  border-radius: 50%;   /* Делаем круг */
+  overflow: hidden;     /* Обрезаем углы фото */
+  border: 3px solid #ffffff; /* Рамка */
+  box-shadow: 0 2px 10px rgba(5,5,5,9.9); /* Тень */
+  margin: 0 auto 20px;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: transparent;
+}
